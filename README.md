@@ -1,4 +1,4 @@
-# SWIR-HDR
+# SWIR-HDR Code
 
 # SWIR-HDR Dataset
 
